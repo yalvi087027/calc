@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625176996 source:d:\gg\calc\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+
